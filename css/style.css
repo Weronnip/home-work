@@ -1,0 +1,57 @@
+body {
+    margin: auto;
+    max-width: 70%;
+    background-color: black;
+}
+h1,h2 {
+    color: rgb(172, 172, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1.5em;
+}
+h1 {
+    font-size: 32px;
+}
+p1 {
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(172, 172, 172);
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 15px;
+}
+li {
+    color: #ffff;
+}
+figcaption {
+    font-family: italic;
+}
+figure {
+    float: right;
+}
+tr {
+    color: rgb(172, 172, 172);
+}
+li1 {
+    color: rgb(172, 172, 172);
+}
+.mains {
+    color: #ffff;
+}
+.prob {
+    color: rgb(255, 186, 82);
+    margin-left: 6%;
+}
+.card {
+    display: inline-block;
+    font-weight: 500;
+    padding: .1em 1em;
+    border: 3px solid darkorange;
+    border-radius: 20px;
+    margin-left: 0%;
+}
+#center_img {
+    width: auto;
+    height: auto;
+    padding-right: 60%;
+}
